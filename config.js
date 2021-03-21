@@ -23,7 +23,8 @@ var config = {
      */
     imgs: {
         "亲爱的杨骐毓小朋友": "./imgs/yangqiyu.jpg",
-         "今天是你的生日": "./imgs/aoteman.jpg"
+         "今天是你的生日哟": "./imgs/aoteman.jpg",
+         "然后祝你学业进步,考试都是一百分": "./imgs/aoteman.jpg"
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
